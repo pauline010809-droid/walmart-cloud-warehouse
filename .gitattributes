@@ -1,1 +1,2 @@
 images/RYS_10.15/RYS51D-BLK/VIDEO.mp4 filter=lfs diff=lfs merge=lfs -text
+images/RYS_10.27/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
